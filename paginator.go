@@ -1,4 +1,4 @@
-package utility
+package paginator
 
 type Paginator struct {
 	PerPage     int64 `json:"perPage"`
